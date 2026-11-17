@@ -1,0 +1,21 @@
+# Credenciales y sesiones OAuth2 (NUNCA subir a GitHub)
+credentials.json
+token.json
+token.enc
+
+# Manifiestos e informes personales de respaldo
+manifiesto_respaldo_drive.json
+informe_respaldo_drive.pdf
+*.pdf
+
+# Entorno virtual y cachés de Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sistema operativo y editor
+.DS_Store
+.vscode/
+.idea/
